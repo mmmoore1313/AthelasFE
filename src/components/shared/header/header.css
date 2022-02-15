@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: right;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+}
+li {
+  cursor: pointer;
+  list-style: none;
+}
+.werds {
+  display: flex;
+  align-items: center;
+}
+#main {
+  height: 10vh;
+}
