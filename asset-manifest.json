@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AthelasFE/static/css/main.cc8e5f8e.css",
+    "main.js": "/AthelasFE/static/js/main.e37a7087.js",
+    "static/js/787.0292d451.chunk.js": "/AthelasFE/static/js/787.0292d451.chunk.js",
+    "static/media/bgfarm.png": "/AthelasFE/static/media/bgfarm.c0da15f51c84d912f54c.png",
+    "index.html": "/AthelasFE/index.html",
+    "main.cc8e5f8e.css.map": "/AthelasFE/static/css/main.cc8e5f8e.css.map",
+    "main.e37a7087.js.map": "/AthelasFE/static/js/main.e37a7087.js.map",
+    "787.0292d451.chunk.js.map": "/AthelasFE/static/js/787.0292d451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8e5f8e.css",
+    "static/js/main.e37a7087.js"
+  ]
+}
