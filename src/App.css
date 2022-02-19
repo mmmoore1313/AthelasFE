@@ -1,8 +1,20 @@
 .App {
   text-align: center;
+  background-image: url(/public/bgfarm.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
-.App > div {
-  width: 100vw;
+#bar {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+}
+.App > .screen {
+  width: 80vw;
   min-height: 100vh;
-  margin-top: 5%;
+  margin-top: 10%;
+  margin-left: 10%;
+  background-color: white;
+  
 }

@@ -9,7 +9,7 @@ const Header = () => {
         <li>
           <Link
             activeClass="active"
-            to="main"
+            to="top"
             spy={true}
             smooth={true}
             offset={-100}
