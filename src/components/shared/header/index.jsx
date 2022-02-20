@@ -15,7 +15,7 @@ const Header = () => {
             offset={-100}
             duration={500}
           >
-            <img src={`${process.env.PUBLIC_URL}/athelas.png`} alt='athelas-logo-main' id='main'/>
+            <img src={`${process.env.PUBLIC_URL}/athelas.png`} alt='athelas-logo-main' id='home'/>
           </Link>
         </li>
         <li className='werds'>
