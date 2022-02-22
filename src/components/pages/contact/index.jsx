@@ -1,3 +1,4 @@
+import { MapView } from '../../shared/'
 import './contact.css'
 
 const Contact = () => {
@@ -5,7 +6,7 @@ const Contact = () => {
     <>
       <h1>Contact Us</h1>
       <div id='map'>
-        I'm a map
+        
       </div>
       <div id='contact info'>
         <div id='contactCard'>
